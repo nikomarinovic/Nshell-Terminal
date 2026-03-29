@@ -8,10 +8,6 @@
   A custom terminal shell built in C# using .NET — Unix-like experience, extensible by design.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nmarino8/Nshell-Terminal">https://github.com/Nmarino8/Nshell-Terminal</a>
-</p>
-
 ---
 
 ## What is NShell?
