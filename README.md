@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo.svg" alt="NShell Logo" width="96" />
+  <img src="public/logo.png" alt="NShell Logo" width="96" />
   <br />
   NShell
 </h1>
